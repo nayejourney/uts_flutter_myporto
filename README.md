@@ -1,16 +1,46 @@
-# my_porto
+# UTS Flutter MyPorto
 
-A new Flutter project.
+Project UTS Mata Kuliah Pemrograman Mobile menggunakan Flutter.
 
-## Getting Started
+## Identitas Mahasiswa
 
-This project is a starting point for a Flutter application.
+Nama : Khanaya Salsabila
+NPM : 20241320021
+Program Studi : Sistem Informasi
+Universitas : UKRI
 
-A few resources to get you started if this is your first Flutter project:
+## Deskripsi Project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+MyPorto merupakan aplikasi mobile sederhana berbasis Flutter yang berisi beberapa implementasi widget dan fitur dasar dalam pengembangan aplikasi mobile.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Aplikasi ini dibuat sebagai tugas Ujian Tengah Semester dengan tujuan memahami penggunaan widget, navigasi, input pengguna, list, grid view, dan pembuatan tampilan antarmuka pada Flutter.
+
+## Fitur Halaman
+
+1. Counter
+2. Widget Bertingkat
+3. User Input Example
+4. Dynamic List Example
+5. Navigasi Sederhana
+6. Grid View
+7. Tentang Saya
+
+## Teknologi
+
+* Flutter
+* Dart
+* Visual Studio Code
+
+## Struktur Folder
+
+* lib/ → source code aplikasi
+* assets/ → gambar dan asset aplikasi
+* screenshots/ → screenshot setiap halaman aplikasi
+
+## Screenshot Aplikasi
+
+Screenshot halaman aplikasi terdapat pada folder `screenshots`.
+
+## Repository Github
+
+https://github.com/nayejourney/uts_flutter_myporto
