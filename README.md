@@ -1,6 +1,6 @@
 # UTS Flutter MyPorto
 
-Project UTS Mata Kuliah Pemrograman Mobile menggunakan Flutter.
+Project UTS Mata Kuliah Praktikum Pemrograman Aplikasi Bergerak menggunakan Flutter.
 
 ## Identitas Mahasiswa
 
